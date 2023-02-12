@@ -18,13 +18,13 @@ p0{
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
 }
-p1{
+.my-movies{
     color: rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
 }
 
-p2{
+.favorite-movies{
     color: rgb(0, 213, 255);
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
