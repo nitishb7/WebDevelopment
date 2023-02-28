@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+body{
+    background-color: rgb(14, 216, 115);
+    font-style: italic;
+    color:aquamarine 
+}
+.intro{
+    color: aqua;
+    font-family: 'Tilt Prism', cursive;
+}
+h1{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+h2{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.text-center{
+    color: aqua;
+    
+
+}
+.my-hobbies{
+    color: rgb(0, 217, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.my-movies{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.favorite-movies{
+    color: rgb(0, 213, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.table{
+    border-color: aliceblue;
+    font-family:Times 'Times New Roman';
+    color:whitesmoke;
+    font-style: italic;   
+    }
+
+.input-box{
+    color: rgb(0, 213, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+.box1 {
+    color:  rgb(0, 213, 255);
+    background-color: black;
+    border: none;
+}
+#name2 {
+    background-color:black;
+    border: none;
+}
+#email {
+    background-color: white;
+    border: none;
+}
+
+.button {
+    padding: 3px;
+    background:rgb(0, 213, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.check-box{
+    font-family: 'Courier New', Courier, monospace;
+    color:cyan;
+    font-size: 18px;
+
+}
